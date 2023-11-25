@@ -2,7 +2,7 @@
 
 Hi, My name is Dennis Riis.
 
-I do software for a living. I am currently employed at Schibsted Denmark, in Århus, where I am the lead software architect - technically responsible for the technology, quality and code for the 3 main platforms offered by Schibsted in Denmark: DBA, Bilbasen and BilInfo. 
+I do software for a living. I am currently employed at Schibsted, in Århus, where I am a Principal Engineer for our Nordic Marketplaces Recommerce vertical. Being technically responsible for the technology, quality and code for a marketplace being rolled out in the Nordic countries; Denmark, Norway, Sweden and Finland. 
 
 I still do a lot of coding in my day job; since that's important to keep a finger on the pulse in my role. This includes internal projects and the occasional open source contribution.
 
